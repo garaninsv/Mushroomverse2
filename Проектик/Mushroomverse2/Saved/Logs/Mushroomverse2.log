@@ -1018,3 +1018,253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.02-11.28.44:702][133]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2023.04.02-11.28.47:058][416]LogContentBrowser: Attempting asset rename: NewFolder -> Models
 [2023.04.02-11.28.47:058][416]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.02-11.50.03:679][ 38]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Елена\Documents\GitHub\Mushroomverse2\Модельки\Telega.fbx)
+[2023.04.02-11.50.03:895][ 38]LogFbx: Loading FBX Scene from C:\Users\Елена\Documents\GitHub\Mushroomverse2\Модельки\Telega.fbx
+[2023.04.02-11.50.03:935][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.02-11.50.05:913][ 38]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.02-11.50.06:230][ 38]LogFbx: Display: Triangulating static mesh Torus.020
+[2023.04.02-11.50.06:444][ 38]LogStaticMesh: Building static mesh Telega...
+[2023.04.02-11.50.06:610][ 38]LogStaticMesh: Built static mesh [0.17s] /Game/Models/Telega.Telega
+[2023.04.02-11.50.06:699][ 38]LogStaticMesh: Warning: Telega has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.04.02-11.50.06:699][ 38]LogStaticMesh: Warning: Telega has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.04.02-11.50.06:739][ 38]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.02-11.50.06:739][ 38]FBXImport: Warning: Telega has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.04.02-11.50.06:739][ 38]FBXImport: Warning: Telega has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.04.02-11.50.06:973][ 38]LogSlate: Took 0.022574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.02-11.50.09:986][355]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-11.50.09:993][355]LogSlate: Window 'Message Log' being destroyed
+[2023.04.02-11.50.24:757][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2023.04.02-11.50.25:603][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2023.04.02-11.50.29:153][115]Cmd: ACTOR SELECT ALL
+[2023.04.02-11.50.40:762][445]Cmd: DELETE
+[2023.04.02-11.50.40:866][445]Cmd: ACTOR DELETE
+[2023.04.02-11.50.40:867][445]LogEditorActor: Cannot delete special actor Brush /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Brush_1
+[2023.04.02-11.50.40:965][445]LogEditorActor: Deleted Actor: PlayerStart
+[2023.04.02-11.50.40:992][445]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2023.04.02-11.50.40:993][445]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.04.02-11.50.40:997][445]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2023.04.02-11.50.40:999][445]LogEditorActor: Deleted Actor: NavModifierVolume
+[2023.04.02-11.50.41:021][445]LogEditorActor: Deleted Actor: RecastNavMesh
+[2023.04.02-11.50.41:083][445]LogCrowdFollowing: Error: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2023.04.02-11.50.41:084][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:099][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:099][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:099][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:100][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:100][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:101][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:101][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:101][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:101][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:102][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:102][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:102][445]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.41:102][445]LogEditorActor: Deleted Actor: AmbientSound
+[2023.04.02-11.50.41:115][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:115][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:116][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:117][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.41:118][445]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2023.04.02-11.50.41:119][445]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.04.02-11.50.41:119][445]LogEditorActor: Deleted Actor: SkyLight
+[2023.04.02-11.50.41:119][445]LogEditorActor: Deleted Actor: PointLight
+[2023.04.02-11.50.41:119][445]LogEditorActor: Deleted Actor: PointLight
+[2023.04.02-11.50.41:119][445]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2023.04.02-11.50.41:120][445]LogEditorActor: Deleted Actor: VRSpectator_C
+[2023.04.02-11.50.41:120][445]LogEditorActor: Deleted Actor: Pistol_C
+[2023.04.02-11.50.41:120][445]LogEditorActor: Deleted Actor: Pistol_C
+[2023.04.02-11.50.41:120][445]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.04.02-11.50.41:160][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.04.02-11.50.41:179][445]LogEditorActor: Deleted 49 Actors (0.312 secs)
+[2023.04.02-11.50.41:190][445]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.50.41:190][445]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.50.43:994][781]Cmd: TRANSACTION UNDO
+[2023.04.02-11.50.43:994][781]LogEditorTransaction: Undo Delete Actors
+[2023.04.02-11.50.44:263][781]LogNavigation: Warning: NavData RegistrationFailed_AgentAlreadySupported, specified agent type already has its navmesh implemented.
+[2023.04.02-11.50.48:377][242]Cmd: POLY SELECT ADJACENT WALLS
+[2023.04.02-11.50.53:961][880]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.04.02-11.50.55:958][115]Cmd: DELETE
+[2023.04.02-11.50.55:958][115]Cmd: ACTOR DELETE
+[2023.04.02-11.50.55:958][115]LogEditorActor: Cannot delete special actor Brush /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Brush_1
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: PlayerStart
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: InstancedFoliageActor
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: NavModifierVolume
+[2023.04.02-11.50.55:965][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:966][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:966][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:966][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:966][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:966][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:967][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: AmbientSound
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:968][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:969][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:970][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:971][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:971][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:971][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.02-11.50.55:971][115]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.04.02-11.50.55:971][115]LogEditorActor: Deleted Actor: SkyLight
+[2023.04.02-11.50.55:972][115]LogEditorActor: Deleted Actor: PointLight
+[2023.04.02-11.50.55:972][115]LogEditorActor: Deleted Actor: PointLight
+[2023.04.02-11.50.55:972][115]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2023.04.02-11.50.55:972][115]LogEditorActor: Deleted Actor: VRSpectator_C
+[2023.04.02-11.50.55:972][115]LogEditorActor: Deleted Actor: Pistol_C
+[2023.04.02-11.50.55:973][115]LogEditorActor: Deleted Actor: Pistol_C
+[2023.04.02-11.50.55:973][115]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.04.02-11.50.55:979][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.02-11.50.55:990][115]LogEditorActor: Deleted 47 Actors (0.032 secs)
+[2023.04.02-11.50.55:998][115]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.01:669][778]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySpherePC2)
+[2023.04.02-11.51.03:067][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2023.04.02-11.51.03:929][ 43]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.03:974][ 44]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.03:982][ 45]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.03:991][ 46]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.03:999][ 47]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:007][ 48]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:015][ 49]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:024][ 50]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:032][ 51]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:041][ 52]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:049][ 53]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:058][ 54]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:065][ 55]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:074][ 56]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:082][ 57]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:091][ 58]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:099][ 59]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:107][ 60]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:115][ 61]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:124][ 62]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:132][ 63]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:141][ 64]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:149][ 65]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:158][ 66]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:166][ 67]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:182][ 69]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:191][ 70]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:199][ 71]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:207][ 72]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:215][ 73]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:224][ 74]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:233][ 75]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:241][ 76]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:257][ 78]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:341][ 88]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:357][ 90]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:366][ 91]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:374][ 92]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:382][ 93]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:390][ 94]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:399][ 95]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:407][ 96]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:416][ 97]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:608][120]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:616][121]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:624][122]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:633][123]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:640][124]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:649][125]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:657][126]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:666][127]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:674][128]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:682][129]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:691][130]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.04:819][145]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2023.04.02-11.51.34:757][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.04.02-11.51.34:914][659]LogSavePackage: Moving 'C:/Users/Елена/Documents/GitHub/Mushroomverse2/Проектик/Mushroomverse2/Saved/VRTemplateMap_Auto12184C6D94C9C383D63BAA792EB9301B6.tmp' to 'C:/Users/Елена/Documents/GitHub/Mushroomverse2/Проектик/Mushroomverse2/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.04.02-11.51.34:940][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.200
+[2023.04.02-11.51.34:941][659]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.200
+[2023.04.02-11.51.34:962][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Telega] ([1] browsable assets)...
+[2023.04.02-11.51.35:025][659]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Telega.Telega]
+[2023.04.02-11.51.35:025][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Telega]
+[2023.04.02-11.51.35:138][659]LogSavePackage: Moving 'C:/Users/Елена/Documents/GitHub/Mushroomverse2/Проектик/Mushroomverse2/Saved/Telega_Auto17417D7424BD831A0EB96CC8C99EA103B.tmp' to 'C:/Users/Елена/Documents/GitHub/Mushroomverse2/Проектик/Mushroomverse2/Saved/Autosaves/Game/Models/Telega_Auto1.uasset'
+[2023.04.02-11.51.35:141][659]LogFileHelpers: Auto-saving content packages took 0.181
+[2023.04.02-11.57.46:592][ 77]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.04.02-11.57.46:606][ 77]LogContentBrowser: Creating deferred item: NewFolder
+[2023.04.02-11.57.54:714][ 50]LogContentBrowser: Attempting asset rename: NewFolder -> Actors
+[2023.04.02-11.57.54:715][ 50]LogContentBrowser: End creating deferred item NewFolder
+[2023.04.02-11.58.55:423][932]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.02-11.58.56:773][932]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.02-11.58.56:790][932]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.02-11.58.56:797][932]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.02-11.59.07:280][187]LogContentBrowser: Attempting asset rename: NewBlueprint -> Telega
+[2023.04.02-11.59.07:453][187]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.02-11.59.08:461][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/Telega.Telega
+[2023.04.02-11.59.08:975][293]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2023.04.02-11.59.10:478][293]LogMaterial: Display: Missing cached shadermap for GridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 59ACA1E0025C040EF913240211FDDDE7A3A50BF3), compiling. 
+[2023.04.02-11.59.10:770][293]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2023.04.02-11.59.10:866][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2023.04.02-11.59.10:866][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2023.04.02-11.59.10:866][293]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2023.04.02-11.59.10:866][293]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.04.02-11.59.10:866][293]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.10:957][293]LogMaterial: Display: Missing cached shadermap for PersonaFloorMat in PCD3D_SM5, Default, SM5 (DDC key hash: CA1919638C85727DC16944B8D52B016DD29089E9), compiling. 
+[2023.04.02-11.59.11:064][293]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2023.04.02-11.59.14:315][492]LogSlate: Took 0.114591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: Total job queries 41, among them cache hits 0 (0.00%)
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: RAM used: 0.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.04.02-11.59.18:375][757]LogShaderCompilers: Display: ================================================
+[2023.04.02-11.59.19:608][821]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2023.04.02-11.59.19:608][821]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.29:385][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2023.04.02-11.59.29:385][481]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.29:606][495]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2023.04.02-11.59.29:606][495]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.32:376][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2023.04.02-11.59.32:376][648]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.37:785][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2023.04.02-11.59.37:785][ 43]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.38:661][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2023.04.02-11.59.38:661][105]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-11.59.39:173][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.04.02-11.59.39:173][143]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.04.02-12.00.40:117][ 84]BlueprintLog: New page: Compile Telega
+[2023.04.02-12.00.40:380][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.04.02-12.02.07:396][ 30]LogSlate: Took 0.024012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.02-12.03.29:751][715]BlueprintLog: New page: Compile Telega
+[2023.04.02-12.03.29:791][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.04.02-12.04.27:585][166]BlueprintLog: New page: Compile Telega
+[2023.04.02-12.04.27:638][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.04.02-12.04.34:136][718]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
