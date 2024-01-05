@@ -1988,3 +1988,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.01.05-11.12.08:979][316]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2024.01.05-11.12.08:979][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.01.05-11.12.10:979][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2024.01.05-11.12.57:477][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Telega-un.fbx)
+[2024.01.05-11.12.57:513][ 12]LogFbx: Loading FBX Scene from C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Telega-un.fbx
+[2024.01.05-11.12.57:534][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.05-11.12.58:955][ 12]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.01.05-11.12.58:955][ 12]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.01.05-11.12.59:047][ 12]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.05-11.12.59:068][ 12]LogFbx: Display: Triangulating static mesh Torus.006
+[2024.01.05-11.12.59:554][ 12]LogStaticMesh: Building static mesh Telega-un...
+[2024.01.05-11.12.59:781][ 12]LogStaticMesh: Built static mesh [0.23s] /Game/Models/Telega-un.Telega-un
+[2024.01.05-11.12.59:800][ 12]LogStaticMesh: Warning: Telega-un has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.01.05-11.12.59:800][ 12]LogStaticMesh: Warning: Telega-un has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.01.05-11.12.59:800][ 12]LogStaticMesh: Warning: Telega-un has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.01.05-11.12.59:828][ 12]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.05-11.12.59:828][ 12]FBXImport: Warning: Telega-un has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.01.05-11.12.59:828][ 12]FBXImport: Warning: Telega-un has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2024.01.05-11.12.59:828][ 12]FBXImport: Warning: Telega-un has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.01.05-11.12.59:922][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Muhomor-un.fbx)
+[2024.01.05-11.12.59:935][ 12]LogFbx: Loading FBX Scene from C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Muhomor-un.fbx
+[2024.01.05-11.12.59:942][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.05-11.12.59:942][ 12]LogFbx: Display: Triangulating static mesh Окружность.002
+[2024.01.05-11.13.00:036][ 12]LogStaticMesh: Building static mesh Muhomor-un...
+[2024.01.05-11.13.00:088][ 12]LogStaticMesh: Built static mesh [0.05s] /Game/Models/Muhomor-un.Muhomor-un
+[2024.01.05-11.13.00:120][ 12]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.05-11.13.00:140][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Grib-naparnik-un.fbx)
+[2024.01.05-11.13.00:149][ 12]LogFbx: Loading FBX Scene from C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Grib-naparnik-un.fbx
+[2024.01.05-11.13.00:156][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.05-11.13.00:173][ 12]LogMaterial: Display: Missing cached shadermap for Textured in PCD3D_SM5, Default, SM5 (DDC key hash: AC21A1EC14987F88B43785F98971EEDC6B296454), compiling. 
+[2024.01.05-11.13.00:192][ 12]LogStaticMesh: Building static mesh Grib-naparnik-un...
+[2024.01.05-11.13.00:231][ 12]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Grib-naparnik-un.Grib-naparnik-un
+[2024.01.05-11.13.00:255][ 12]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.05-11.13.00:272][ 12]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Meshok-un.fbx)
+[2024.01.05-11.13.00:281][ 12]LogFbx: Loading FBX Scene from C:\Users\User\OneDrive - ООО АСП-АКВА\Документы\GitHub\Mushroomverse2\Модельки\Meshok-un.fbx
+[2024.01.05-11.13.00:285][ 12]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.05-11.13.00:308][ 12]LogFbx: Display: Triangulating static mesh Сфера.001
+[2024.01.05-11.13.00:339][ 12]LogStaticMesh: Building static mesh Meshok-un...
+[2024.01.05-11.13.00:355][ 12]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Meshok-un.Meshok-un
+[2024.01.05-11.13.00:371][ 12]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.05-11.13.00:430][ 12]LogSlate: Took 0.008206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.01.05-11.13.00:490][ 17]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.01.05-11.13.00:491][ 17]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.01.05-11.13.00:491][ 17]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2024.01.05-11.13.00:491][ 17]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.01.05-11.13.00:510][ 17]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2024.01.05-11.13.00:510][ 17]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.00:510][ 17]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: Total job queries 2765, among them cache hits 0 (0.00%)
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: Tracking 2750 distinct input hashes that result in 1358 distinct outputs (49.38%)
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: RAM used: 14.65 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 3.58%
+[2024.01.05-11.13.04:551][165]LogShaderCompilers: Display: ================================================
+[2024.01.05-11.13.05:504][217]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2024.01.05-11.13.05:504][217]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.05:645][225]LogSlate: Window 'Message Log' being destroyed
+[2024.01.05-11.13.05:649][225]LogSlate: Window 'Message Log' being destroyed
+[2024.01.05-11.13.30:021][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2024.01.05-11.13.30:022][407]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.52:095][692]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2024.01.05-11.13.52:095][692]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.13.53:409][770]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2024.01.05-11.13.53:409][770]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.01.05-11.14.04:430][234]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.01.05-11.14.07:699][234]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (887a0007)
+[2024.01.05-11.46.35:659][234]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
